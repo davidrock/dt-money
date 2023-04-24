@@ -1,0 +1,36 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Website Freelance",
+      "type": "income",
+      "category": "Job",
+      "price": 2500,
+      "createdAt": "2022-04-01T19:00:00.505Z"
+    },
+    {
+      "id": 1,
+      "description": "Job Salary",
+      "type": "income",
+      "category": "Job",
+      "price": 6523,
+      "createdAt": "2022-04-05T09:00:00.505Z"
+    },
+    {
+      "id": 1,
+      "description": "Ricks Burguer",
+      "type": "outcome",
+      "category": "Food & Groceries",
+      "price": 12,
+      "createdAt": "2022-04-01T18:00:00.505Z"
+    },
+    {
+      "id": 1,
+      "description": "Internet bill",
+      "type": "outcome",
+      "category": "House Expenses",
+      "price": 75,
+      "createdAt": "2022-04-10T18:00:00.505Z"
+    }
+  ]
+}

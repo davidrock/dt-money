@@ -1,9 +1,12 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 import { App } from "./App.tsx";
+import { TransactionsProvider } from "./contexts/TransactionsContext.tsx";
 
 ReactDOM.createRoot(document.getElementById("root") as HTMLElement).render(
-  <React.StrictMode>
+  // <React.StrictMode>
+  <TransactionsProvider>
     <App />
-  </React.StrictMode>
+  </TransactionsProvider>
+  // </React.StrictMode>
 );
