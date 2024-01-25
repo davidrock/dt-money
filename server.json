@@ -9,7 +9,7 @@
       "createdAt": "2022-04-01T19:00:00.505Z"
     },
     {
-      "id": 1,
+      "id": 2,
       "description": "Job Salary",
       "type": "income",
       "category": "Job",
@@ -17,7 +17,7 @@
       "createdAt": "2022-04-05T09:00:00.505Z"
     },
     {
-      "id": 1,
+      "id": 3,
       "description": "Ricks Burguer",
       "type": "outcome",
       "category": "Food & Groceries",
@@ -25,12 +25,28 @@
       "createdAt": "2022-04-01T18:00:00.505Z"
     },
     {
-      "id": 1,
+      "id": 4,
       "description": "Internet bill",
       "type": "outcome",
       "category": "House Expenses",
       "price": 75,
       "createdAt": "2022-04-10T18:00:00.505Z"
+    },
+    {
+      "id": 5,
+      "description": "Chamae",
+      "category": "Freela",
+      "price": 12000,
+      "type": "income",
+      "createdAt": "2024-01-25T18:39:18.891Z"
+    },
+    {
+      "description": "Iogurte de Stevia",
+      "category": "Comidas",
+      "price": 25,
+      "type": "outcome",
+      "createdAt": "2024-01-25T18:50:56.676Z",
+      "id": 6
     }
   ]
 }
